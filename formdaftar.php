@@ -80,7 +80,7 @@
 </tr>
 <td>Hobi</td>
     <td>:</td>
-    <td><input type="text"></td><br>
+    <td><input type="text" name="hoby"></td><br>
 </tr>
 <tr>
 <td><input type="submit" name="pilih" value="Simpan"></td>
