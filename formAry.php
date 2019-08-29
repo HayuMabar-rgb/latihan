@@ -23,7 +23,7 @@
 if(isset($_GET['submit'])){
     $jml_form = $_GET['jml'];
     for ($i=0; $i <= $_jml_form ; $i++) { 
-?>
+?> 
 <FORM action ="outary.php" method ="POST">
 <label for="">nama</label>
 <input type="text" name ="nama[]" required>
